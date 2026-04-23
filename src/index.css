@@ -1,0 +1,13 @@
+/* This targets the actual HTML elements outside of React */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #eee;
+  font-family: "Montserrat", sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

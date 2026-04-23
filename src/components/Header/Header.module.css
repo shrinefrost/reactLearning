@@ -1,0 +1,11 @@
+.headerContainer {
+  background-color: rgb(245, 186, 19);
+  min-height: 10vh;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-left: 1rem;
+}
