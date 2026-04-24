@@ -11,3 +11,14 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+.notes-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+  padding: 16px;
+  justify-content: flex-start;
+  width: 100%;
+  box-sizing: border-box;
+}
